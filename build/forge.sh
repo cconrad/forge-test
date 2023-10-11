@@ -1,5 +1,5 @@
 # Print all env vars
-printenv
+$FORGE_PHP --version
 
 exit 0
 
